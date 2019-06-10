@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './AddTodo';
+import App from './NewsItem';
 import * as serviceWorker from './serviceWorker';
 
 import store from "./store";
